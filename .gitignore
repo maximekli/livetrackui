@@ -1,0 +1,5 @@
+livetrack_data
+.env
+.ai
+__pycache__
+*.AppImage
